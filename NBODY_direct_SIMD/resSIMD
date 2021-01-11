@@ -1,0 +1,16 @@
+./bin/NBODY_direct --in=../data/baredisk_32768-plummer_32768.nemo --tend=10.0 --dt=1.0 --soft=0.01
+*** Compute own interactions of the box defined in "../data/baredisk_32768-plummer_32768.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 65536
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution : 51.736846 secondes
+
+./bin/NBODY_direct --in=../data/baredisk_32768-plummer_32768.nemo --tend=10.0 --dt=1.0 --soft=0.01
+*** Compute own interactions of the box defined in "../data/baredisk_32768-plummer_32768.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 65536
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution : 51.756371 secondes
+

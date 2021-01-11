@@ -1,0 +1,70 @@
+64 corps
+*** Compute own interactions of the box defined in "../data/baredisk_64-plummer_64.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 128
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution : 0.001948 secondes
+128 corps
+*** Compute own interactions of the box defined in "../data/baredisk_128-plummer_128.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 256
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution : 0.002978 secondes
+256 corps
+*** Compute own interactions of the box defined in "../data/baredisk_256-plummer_256.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 512
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution : 0.011629 secondes
+512 corps
+*** Compute own interactions of the box defined in "../data/baredisk_512-plummer_512.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 1024
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution : 0.046313 secondes
+1024 corps
+*** Compute own interactions of the box defined in "../data/baredisk_1024-plummer_1024.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 2048
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution : 0.183870 secondes
+2048 corps
+*** Compute own interactions of the box defined in "../data/baredisk_2048-plummer_2048.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 4096
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution : 0.746314 secondes
+4096 corps
+*** Compute own interactions of the box defined in "../data/baredisk_4096-plummer_4096.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 8192
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution : 3.290611 secondes
+8192 corps
+*** Compute own interactions of the box defined in "../data/baredisk_8192-plummer_8192.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 16384
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution : 13.171847 secondes
+16384 corps
+*** Compute own interactions of the box defined in "../data/baredisk_16384-plummer_16384.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 32768
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution : 52.808954 secondes
+32768 corps
+*** Compute own interactions of the box defined in "../data/baredisk_32768-plummer_32768.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 65536
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution : 211.438109 secondes

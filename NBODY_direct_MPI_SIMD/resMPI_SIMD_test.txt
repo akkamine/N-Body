@@ -1,0 +1,162 @@
+2 cors
+*** Compute own interactions of the box defined in "../data/baredisk_32768-plummer_32768.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 65536
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution pour le processus 0 : 146.461105 secondes
+Temps d'exécution pour le processus 1 : 146.457028 secondes
+4 cors
+*** Compute own interactions of the box defined in "../data/baredisk_32768-plummer_32768.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 65536
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution pour le processus 3 : 62.075919 secondes
+Temps d'exécution pour le processus 1 : 62.089592 secondes
+Temps d'exécution pour le processus 2 : 62.087512 secondes
+Temps d'exécution pour le processus 0 : 62.112374 secondes
+8 cors
+*** Compute own interactions of the box defined in "../data/baredisk_32768-plummer_32768.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 65536
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution pour le processus 3 : 28.340272 secondes
+Temps d'exécution pour le processus 4 : 28.341179 secondes
+Temps d'exécution pour le processus 1 : 28.346556 secondes
+Temps d'exécution pour le processus 2 : 28.346641 secondes
+Temps d'exécution pour le processus 5 : 28.345750 secondes
+Temps d'exécution pour le processus 6 : 28.345684 secondes
+Temps d'exécution pour le processus 0 : 28.346790 secondes
+Temps d'exécution pour le processus 7 : 28.349076 secondes
+16 cors
+*** Compute own interactions of the box defined in "../data/baredisk_32768-plummer_32768.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 65536
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution pour le processus 13 : 13.604587 secondes
+Temps d'exécution pour le processus 11 : 13.614445 secondes
+Temps d'exécution pour le processus 15 : 13.618598 secondes
+Temps d'exécution pour le processus 14 : 13.605740 secondes
+Temps d'exécution pour le processus 9 : 13.625260 secondes
+Temps d'exécution pour le processus 1 : 13.621180 secondes
+Temps d'exécution pour le processus 12 : 13.610235 secondes
+Temps d'exécution pour le processus 10 : 13.607983 secondes
+Temps d'exécution pour le processus 0 : 13.631803 secondes
+Temps d'exécution pour le processus 3 : 13.610159 secondes
+Temps d'exécution pour le processus 7 : 13.615433 secondes
+Temps d'exécution pour le processus 5 : 13.642247 secondes
+Temps d'exécution pour le processus 2 : 13.616789 secondes
+Temps d'exécution pour le processus 8 : 13.610650 secondes
+Temps d'exécution pour le processus 4 : 13.610714 secondes
+Temps d'exécution pour le processus 6 : 13.618406 secondes
+32 cors
+*** Compute own interactions of the box defined in "../data/baredisk_32768-plummer_32768.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 65536
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution pour le processus 11 : 7.330634 secondes
+Temps d'exécution pour le processus 12 : 7.339459 secondes
+Temps d'exécution pour le processus 13 : 7.334990 secondes
+Temps d'exécution pour le processus 14 : 7.338652 secondes
+Temps d'exécution pour le processus 15 : 7.357156 secondes
+Temps d'exécution pour le processus 16 : 7.402599 secondes
+Temps d'exécution pour le processus 17 : 7.373582 secondes
+Temps d'exécution pour le processus 18 : 7.360886 secondes
+Temps d'exécution pour le processus 27 : 7.346949 secondes
+Temps d'exécution pour le processus 25 : 7.363026 secondes
+Temps d'exécution pour le processus 19 : 7.364513 secondes
+Temps d'exécution pour le processus 29 : 7.342774 secondes
+Temps d'exécution pour le processus 20 : 7.353153 secondes
+Temps d'exécution pour le processus 28 : 7.345701 secondes
+Temps d'exécution pour le processus 31 : 7.345180 secondes
+Temps d'exécution pour le processus 26 : 7.340933 secondes
+Temps d'exécution pour le processus 9 : 7.375780 secondes
+Temps d'exécution pour le processus 30 : 7.344137 secondes
+Temps d'exécution pour le processus 21 : 7.366584 secondes
+Temps d'exécution pour le processus 1 : 7.375902 secondes
+Temps d'exécution pour le processus 10 : 7.343981 secondes
+Temps d'exécution pour le processus 0 : 7.409199 secondes
+Temps d'exécution pour le processus 2 : 7.365524 secondes
+Temps d'exécution pour le processus 22 : 7.343455 secondes
+Temps d'exécution pour le processus 3 : 7.359088 secondes
+Temps d'exécution pour le processus 23 : 7.364540 secondes
+Temps d'exécution pour le processus 5 : 7.345669 secondes
+Temps d'exécution pour le processus 4 : 7.359862 secondes
+Temps d'exécution pour le processus 24 : 7.346513 secondes
+Temps d'exécution pour le processus 7 : 7.360243 secondes
+Temps d'exécution pour le processus 6 : 7.348946 secondes
+Temps d'exécution pour le processus 8 : 7.349645 secondes
+64 cors
+*** Compute own interactions of the box defined in "../data/baredisk_32768-plummer_32768.nemo" ***.
+Softening parameter: 1.0e-02
+Bodies number: 65536
+Start Time : 0.000000 	 End Time : 10.000000 	 dt : 1.000000 
+Number of steps: 10
+Temps d'exécution pour le processus 19 : 4.622749 secondes
+Temps d'exécution pour le processus 20 : 4.600298 secondes
+Temps d'exécution pour le processus 23 : 4.601050 secondes
+Temps d'exécution pour le processus 17 : 4.626359 secondes
+Temps d'exécution pour le processus 21 : 4.611057 secondes
+Temps d'exécution pour le processus 18 : 4.625515 secondes
+Temps d'exécution pour le processus 22 : 4.607836 secondes
+Temps d'exécution pour le processus 24 : 4.603794 secondes
+Temps d'exécution pour le processus 11 : 4.609278 secondes
+Temps d'exécution pour le processus 25 : 4.620832 secondes
+Temps d'exécution pour le processus 13 : 4.602099 secondes
+Temps d'exécution pour le processus 12 : 4.611671 secondes
+Temps d'exécution pour le processus 26 : 4.605442 secondes
+Temps d'exécution pour le processus 15 : 4.624106 secondes
+Temps d'exécution pour le processus 27 : 4.604495 secondes
+Temps d'exécution pour le processus 14 : 4.606842 secondes
+Temps d'exécution pour le processus 53 : 4.619629 secondes
+Temps d'exécution pour le processus 16 : 4.686555 secondes
+Temps d'exécution pour le processus 28 : 4.608238 secondes
+Temps d'exécution pour le processus 54 : 4.606764 secondes
+Temps d'exécution pour le processus 29 : 4.607468 secondes
+Temps d'exécution pour le processus 9 : 4.618875 secondes
+Temps d'exécution pour le processus 3 : 4.620818 secondes
+Temps d'exécution pour le processus 5 : 4.609966 secondes
+Temps d'exécution pour le processus 30 : 4.605009 secondes
+Temps d'exécution pour le processus 10 : 4.605037 secondes
+Temps d'exécution pour le processus 4 : 4.614451 secondes
+Temps d'exécution pour le processus 51 : 4.617928 secondes
+Temps d'exécution pour le processus 31 : 4.632259 secondes
+Temps d'exécution pour le processus 8 : 4.609974 secondes
+Temps d'exécution pour le processus 6 : 4.608184 secondes
+Temps d'exécution pour le processus 52 : 4.609446 secondes
+Temps d'exécution pour le processus 32 : 4.689779 secondes
+Temps d'exécution pour le processus 57 : 4.608563 secondes
+Temps d'exécution pour le processus 63 : 4.636820 secondes
+Temps d'exécution pour le processus 59 : 4.613292 secondes
+Temps d'exécution pour le processus 33 : 4.633821 secondes
+Temps d'exécution pour le processus 7 : 4.616258 secondes
+Temps d'exécution pour le processus 58 : 4.613841 secondes
+Temps d'exécution pour le processus 56 : 4.610038 secondes
+Temps d'exécution pour le processus 0 : 4.690992 secondes
+Temps d'exécution pour le processus 60 : 4.610988 secondes
+Temps d'exécution pour le processus 34 : 4.611630 secondes
+Temps d'exécution pour le processus 61 : 4.609372 secondes
+Temps d'exécution pour le processus 35 : 4.615797 secondes
+Temps d'exécution pour le processus 1 : 4.618271 secondes
+Temps d'exécution pour le processus 55 : 4.612039 secondes
+Temps d'exécution pour le processus 62 : 4.611337 secondes
+Temps d'exécution pour le processus 36 : 4.612804 secondes
+Temps d'exécution pour le processus 2 : 4.648484 secondes
+Temps d'exécution pour le processus 47 : 4.634773 secondes
+Temps d'exécution pour le processus 37 : 4.614264 secondes
+Temps d'exécution pour le processus 49 : 4.626315 secondes
+Temps d'exécution pour le processus 45 : 4.615421 secondes
+Temps d'exécution pour le processus 48 : 4.693125 secondes
+Temps d'exécution pour le processus 38 : 4.612293 secondes
+Temps d'exécution pour le processus 50 : 4.622663 secondes
+Temps d'exécution pour le processus 46 : 4.610493 secondes
+Temps d'exécution pour le processus 39 : 4.623911 secondes
+Temps d'exécution pour le processus 40 : 4.611938 secondes
+Temps d'exécution pour le processus 43 : 4.619639 secondes
+Temps d'exécution pour le processus 41 : 4.646312 secondes
+Temps d'exécution pour le processus 44 : 4.620321 secondes
+Temps d'exécution pour le processus 42 : 4.614065 secondes
